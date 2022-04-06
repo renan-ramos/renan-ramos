@@ -6,7 +6,6 @@ A brazilian developer specialized in front-end development, who loves web perfor
 
 ## Some of the things, I work with
 
-[![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/en/)
 [![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next-dot-js&logoColor=FFFFFF)](https://nextjs.org/)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
